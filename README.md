@@ -23,6 +23,33 @@ This project is a demonstration of:
 - DOM manipulation
 - Creating interactive web applications without external libraries
 
+## Running the Project Locally
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/) (recommended version: **>=18.17.1**)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+- [Git](https://git-scm.com/)
+
+### Steps to Run the Project
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/maxmodrr/2048.git
+   cd 2048
+   ```
+
+2. **Install dependensies**
+   ```bash
+   npm i
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm start
+   ```
+
 ---
 
 You're welcome to explore the project!
